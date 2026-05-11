@@ -188,7 +188,7 @@ fun ProfileContent(name: String,
             Button(onClick = onAddFriend) {
                 Text(
                     "Add Friend",
-                    modifier = Modifier.padding(2.dp)
+                    modifier = Modifier.padding(2.dp))
             }
         }
 
